@@ -1,23 +1,5 @@
 [
     {
-      "id": 1,
-      "title": "Change title",
-      "price": 100,
-      "description": "Elevate your wardrobe with this stylish black t-shirt featuring a striking monochrome mountain range graphic. Perfect for those who love the outdoors or want to add a touch of nature-inspired design to their look, this tee is crafted from soft, breathable fabric ensuring all-day comfort. Ideal for casual outings or as a unique gift, this t-shirt is a versatile addition to any collection.",
-      "images": [
-        "[\"https://placeimg.com/640/480/any\"]"
-      ],
-      "creationAt": "2024-04-22T21:52:07.000Z",
-      "updatedAt": "2024-04-23T01:03:10.000Z",
-      "category": {
-        "id": 1,
-        "name": "nuevo",
-        "image": "https://i.imgur.com/QkIa5tT.jpeg",
-        "creationAt": "2024-04-22T21:52:07.000Z",
-        "updatedAt": "2024-04-22T23:59:36.000Z"
-      }
-    },
-    {
       "id": 2,
       "title": "Classic Red Pullover Hoodie",
       "price": 10,
